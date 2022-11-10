@@ -1,0 +1,34 @@
+[
+  {
+    "edificio": "A",
+    "piso": "1",
+    "aprovechable": 0,
+    "organico": 0,
+    "noAprovechable": 0,
+    "estado": "contaminado"
+  },
+  {
+    "edificio": "B",
+    "piso": "1",
+    "aprovechable": 0,
+    "organico": 0,
+    "noAprovechable": 0,
+    "estado": "contaminado"
+  },
+  {
+    "edificio": "C",
+    "piso": "1",
+    "aprovechable": 0,
+    "organico": 0,
+    "noAprovechable": 0,
+    "estado": "contaminado"
+  },
+  {
+    "edificio": "A",
+    "piso": "4",
+    "aprovechable": 0,
+    "organico": 0,
+    "noAprovechable": 0,
+    "estado": "contaminado"
+  }
+]
